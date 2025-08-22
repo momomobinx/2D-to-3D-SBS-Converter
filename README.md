@@ -1,6 +1,6 @@
 # 2D to 3D Side-by-Side Video Converter (GPU Optimized)
 
-![3D SBS Converter Example](https://github.com/PointerSoftware/2D-to-3D-SBS-Converter/blob/main/2D-3D-SBS.png)
+![3D SBS Converter Example](https://github.com/momomobinx/2D-to-3D-SBS-Converter/blob/main/2D-3D-SBS.png)
 
 A powerful Python application that converts standard 2D videos into stereoscopic 3D Side-by-Side (SBS) format for VR viewing. This converter uses deep learning (MiDaS) to generate accurate depth maps and create high-quality stereoscopic 3D videos optimized for various VR headsets.
 
@@ -25,7 +25,7 @@ A powerful Python application that converts standard 2D videos into stereoscopic
 
 ## Demo
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PointerSoftware/2D-to-3D-SBS-Converter/blob/main/2D_to_3D_SBS_Converter.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/momomobinx/2D-to-3D-SBS-Converter/blob/main/2D_to_3D_SBS_Converter.ipynb)
 
 ## How It Works
 
@@ -43,7 +43,7 @@ The converter uses a multi-stage pipeline to transform 2D videos into 3D SBS for
 
 The easiest way to run this converter is through Google Colab, which provides free GPU resources:
 
-1. Open the [Colab Notebook](https://colab.research.google.com/github/PointerSoftware/2D-to-3D-SBS-Converter/blob/main/2D_to_3D_SBS_Converter.ipynb)
+1. Open the [Colab Notebook](https://colab.research.google.com/github/momomobinx/2D-to-3D-SBS-Converter/blob/main/2D_to_3D_SBS_Converter.ipynb)
 2. Select "Runtime" → "Change runtime type" → Set "Hardware accelerator" to "GPU"
 3. Run all cells
 
@@ -136,3 +136,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
+
